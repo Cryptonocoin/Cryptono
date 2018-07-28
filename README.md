@@ -1,3 +1,5 @@
+The Cryptono coin was converted from code ForkNote. Official site of Cryptono www.cryptono.ru
+
 ### About
 Forknote is innovative way to create Cryptonote (https://cryptonote.org) based cryptotokens. It gives the users the ability to create cryptotokens just by creating a simple configuration file.
 
